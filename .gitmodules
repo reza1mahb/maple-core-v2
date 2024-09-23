@@ -1,4 +1,4 @@
-[submodule "modules/erc20"]
+[submodule "modules/erc867"]
 	path = modules/erc20
 	url = git@github.com:maple-labs/erc20.git
 	ignore = dirty
